@@ -6,7 +6,7 @@ function App() {
     <>
     <div className="App">
       <div className="title-row">
-        <h1 className="title">Firebase Web App</h1>
+        <h1 className="title">Firebase Web App New change test</h1>
       </div>
     </div>
     </>
